@@ -1,9 +1,11 @@
 {
     "name": "Custom Email Template",
-    "description": "Allows using a custm mail template",
+    "description": "Allows using a custom mail template",
     "key": "customemailtemplate",
     "version": "0.0.1",
     "type": "addon",
+    "settingsUrl": "/settings/customemailtemplate",
+    "pluginUrl": "https://github.com/r-j/customemailtemplate",
     "hasLocale": true,
     "license": "MIT",
     "authors": [
