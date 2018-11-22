@@ -1,0 +1,14 @@
+{
+    "name": "Custom Email Template",
+    "description": "Allows using a custm mail template",
+    "key": "customemailtemplate",
+    "version": "0.0.1",
+    "type": "addon",
+    "hasLocale": true,
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robin Jurinka"
+        }
+    ]
+}
